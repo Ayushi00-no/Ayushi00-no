@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushi00-no
-- 👀 I’m interested in web3.0
-- 🌱 I’m currently learning solidity and frontend
-- 💞️ I’m looking to collaborate on web 3.0 work
+- 👀 I’m interested in Blockchain and ML
+- 🌱 I’m currently learning machine learning 
+- 💞️ I’m looking to collaborate on web 3.0 as well as machine learning related work
 - 📫 How to reach me ayushisahani47@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love to read
